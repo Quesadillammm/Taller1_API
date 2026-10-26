@@ -1,7 +1,7 @@
-#crear ccarpetas y subcarpetas
+# crear carpetas y subcarpetas
 mkdir -p data test src/models src/views src/templates
 
-#Creat archivos vacios
+# crear archivos vacios
 touch src/main.py
 touch test/test_main.py
 touch README.md
